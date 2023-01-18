@@ -5,7 +5,7 @@ import tkinter as tkinter
 root=Tk()
 root.title("plateforme d'orientation")
 root.geometry("950*550+180+50")
-
+#**Tkinter** fournit de nombreuses methodes; l'une d'elles est **la méthode geometry()**. cette methode est utilisée pour définir la dimension de la fénetre tkinter, et est utilisée pour definir la position de la fenetre principale sur le bureau de l'utilisateur
 
 logo= Canvas(root, width=950, height=550, bg="#46B8E1")
 logo.place(x=0, y=10)
