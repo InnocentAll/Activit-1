@@ -1,4 +1,3 @@
-cpython
 from tkinter import*
 import tkinter as tkinter
 
